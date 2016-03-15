@@ -1,0 +1,62 @@
+/*
+ * Specific styles of signin component
+ */
+/*
+ * General styles
+ */
+body, html {
+background: url('http://www.starpay.com.br/img/header-bg.jpg') fixed;
+background-size: cover;
+padding: 0;
+margin: 0;
+}
+.btn {
+font-weight: 700;
+height: 36px;
+-moz-user-select: none;
+-webkit-user-select: none;
+user-select: none;
+cursor: default;
+}
+.btn.btn-signin {
+    background-color: #FF0502;
+    /* background-color: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));*/
+    padding: 0px;
+    font-weight: 700;
+    font-size: 14px;
+    height: 36px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: none;
+    -o-transition: all 0.218s;
+    -moz-transition: all 0.218s;
+    -webkit-transition: all 0.218s;
+    transition: all 0.218s;
+}
+.btn.btn-signin:hover,
+.btn.btn-signin:active,
+.btn.btn-signin:focus {
+background-color: rgb(12, 97, 33);
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: transparent;
+    border-top: 0px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.forgot-password {
+color: #FF0502;
+}
+.forgot-password:hover,
+.forgot-password:active,
+.forgot-password:focus{
+color: rgb(12, 97, 33);
