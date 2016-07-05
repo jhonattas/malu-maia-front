@@ -1,6 +1,6 @@
 body {	color:#666;	font:300 15px/15px Roboto,Arial,Helvetica;background-color:#fff;-webkit-font-smoothing:antialiased;background-color: #eee;}
 
-a{color:#3366cc; text-decoration:none;}
+a{color:#44142d; text-decoration:none;}
 a:hover{color:#666;}
 .btn,a,.btn:hover,a:hover {
 -webkit-transition: all 0.3s ease-in-out;
@@ -13,7 +13,7 @@ outline: none !important;
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
 h1{font:700 3em Raleway,Arial,Helvetica;padding:5em 0;text-transform: uppercase;color: #fff;}
-h2{font:700 1.5em Raleway,Arial,Helvetica;margin-bottom: 1.5em; color: #3366cc;}
+h2{font:700 1.5em Raleway,Arial,Helvetica;margin-bottom: 1.5em; color: #44142d;}
 h3{font:700 1.25em Raleway,Arial,Helvetica;margin:0.5em 0;}
 
 p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
@@ -30,9 +30,9 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .navbar-nav > li > a{font-size: 1em;line-height:2em;}
 .navbar-inverse{background: #111;}
-.navbar-brand{color: #fff !important;background: #3366cc  !important;margin-left: 0 !important;height: 60px;padding: 1em;font:700 1.25em Raleway; }
+.navbar-brand{color: #fff !important;background: #44142d  !important;margin-left: 0 !important;height: 60px;padding: 1em;font:700 1.25em Raleway; }
 .navbar-default .navbar-nav>li>a{color: #000 !important;}
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color: #fff !important;background-color: #3366cc ;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color: #fff !important;background-color: #44142d ;}
 .navbar-nav.navbar-right:last-child{margin-right: 0 !important}
 .navbar-default{background:none;border:none; }
 .navbar-default .navbar-collapse{background:#fafafa; }
@@ -50,7 +50,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 
 .service{padding:0 10em 2em 10em; color: #fff;}
-.service p{color: #3366cc;font-size: 0.90em;line-height:1.20em;margin: 0;}
+.service p{color: #44142d;font-size: 0.90em;line-height:1.20em;margin: 0;}
 
 .social a{margin-right: 1em;}
 
@@ -88,7 +88,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.navbar-nav > li > a {line-height: 1em;}	
 	.navbar-brand{padding: 7px;height: 50px;line-height: 2em;margin-left: 15px !important;}	
 	.navbar-default{background: #fff !important;}
-	.navbar-default .navbar-toggle,.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background:#3366cc ;color: #fff;border: none;border-radius: 0;}
+	.navbar-default .navbar-toggle,.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background:#44142d ;color: #fff;border: none;border-radius: 0;}
 	.navbar-default .navbar-toggle .icon-bar{background-color: #fff;}
 	.footer{margin-top: 2em;padding-bottom: 2em;}
 
